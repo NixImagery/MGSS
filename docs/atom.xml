@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mossgreen Service Station</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-07-28T22:26:51+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Nick Hood</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome</title>
+   <link href="http://localhost:4000/2020/07/24/welcome/"/>
+   <updated>2020-07-24T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/07/24/welcome</id>
+   <content type="html">&lt;p&gt;Time to replace those wheels? See what’s in stock on our forecourt. We welcome new customers and those who have been with us a longer time: some for over 40 years! Come on down and visit or call to find out why.&lt;/p&gt;
+
+&lt;p&gt;Brian Sibbald and the Sibbald family&lt;br /&gt;
+&lt;strong&gt;Mossgreen Service Station&lt;/strong&gt;&lt;br /&gt;
+Kirkcaldy Road, Crossgates, Fife&lt;br /&gt;
+Tel. (01383) 510602&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

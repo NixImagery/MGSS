@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# Setup
+title:            "Mossgreen Service Station"
+tagline:          'MOT – SERVICING – REPAIRS – TYRES – EXHAUSTS'
+description:      'We are a family business established over 40 years ago which has built a reputation for quality and personal service. For the best in used car sales, vehicle servicing and repair, call or visit us.'
+url:              https://mossgreenservicestation.co.uk
+baseurl:          /
+
+author:
+  name:           'Nick Hood'
+  url:            https://cullaloe.net
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           https://github.com/cullaloe/MGSS
