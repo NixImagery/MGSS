@@ -4,7 +4,7 @@
  <title>Mossgreen Service Station</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-08-03T19:34:54+01:00</updated>
+ <updated>2020-08-03T20:59:44+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Nick Hood</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Welcome</title>
+   <title>Vehicle sales</title>
    <link href="http://localhost:4000/2020/07/24/welcome/"/>
    <updated>2020-07-24T00:00:00+01:00</updated>
    <id>http://localhost:4000/2020/07/24/welcome</id>
