@@ -13,7 +13,7 @@ plugins:
 # Setup
 title:            "Mossgreen Service Station"
 tagline:          'MOT – SERVICING – REPAIRS – TYRES – EXHAUSTS'
-description:      'We are a family business established over 40 years ago which has built a reputation for quality and personal service. For the best in used car sales, vehicle servicing and repair, call or visit us.'
+# description:      'MOT – SERVICING – REPAIRS – TYRES – EXHAUSTS'
 url:              https://mossgreenservicestation.co.uk
 baseurl:          /
 
